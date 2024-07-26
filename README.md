@@ -43,20 +43,9 @@ The project aims to create a professional and user-friendly website for Haywhycl
 ├── .gitignore
 ├── README.md
 ├── package.json
-└── composer.json!q
-/usr/bin/bash: line 1: q: command not found
-
-## Usage
-
-- Open `http://localhost:3000` in your browser to view the website.
-- To generate a new token for a photo folder, use the admin interface provided.
-
-## Contributing
-
-We welcome contributions to improve this project. To contribute, plea
+└── composer.json
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
